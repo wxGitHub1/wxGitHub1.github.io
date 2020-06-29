@@ -130,7 +130,7 @@ body .info-unit h3 {
 }
 
 .container .side .me .portrait img {
-  display: none;
+  /* display: none; */
   width: 8rem;
   height: 8rem;
   border-radius: 50%;
